@@ -18,15 +18,15 @@ The program implements the so-called Caesar cipher operating on characters enter
 
 ## Technologies Used
 Microsoft Visual Studio Community 2022
-Wersja 17.2.1
+Version 17.2.1
 VisualStudio.17.Release/17.2.1+32516.85
 Microsoft .NET Framework
-Wersja 4.8.04161
+Version 4.8.04161
 
-Zainstalowana wersja: Community
+Installed version: Community
 
-Narzędzia języka C#   4.2.0-4.22252.24
-Składniki języka C# używane w środowisku IDE. Zależnie od typu projektu i jego ustawień może być używana inna wersja kompilatora.
+C# tools  4.2.0-4.22252.24
+C# components used in the IDE. Depending on the type of project and its settings, a different version of the compiler may be used.
 
 ## Features
 There is one parameter: _przesuniecie_, number of characters by which entered letters should be shifted.
